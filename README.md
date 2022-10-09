@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HenriqueWolff
+- 👋 Hi, I’m Henrique Wolff
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on Open Source web projects
